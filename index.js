@@ -7,8 +7,9 @@ document.getElementById("submit").onclick=function (){
     x=Number(x);
     randomnum=Math.floor(Math.random()*x) + 1;
 
-    console.log(randomnum);
+    document.getElementById("label1").textContent=randomnum;
 }
+
 
 
 
