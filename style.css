@@ -7,9 +7,10 @@ h1{
     text-align: center;
     color: rgb(252, 220, 181);
 }
-label{
+.label{
     color: beige;
     font-size: 1.6em;
+    text-align: center;
 }
 
 div{
